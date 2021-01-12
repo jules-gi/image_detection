@@ -1,0 +1,22 @@
+# Python
+__pycache__
+.idea/
+.venv/
+
+# Source code
+models/source.py
+
+# Data folder
+data/
+
+# Results
+results/images/
+results/weights/
+
+# Additional files
+display_results.py
+inference.ipynb
+
+# Files Jules
+.DS_Store
+test.py
